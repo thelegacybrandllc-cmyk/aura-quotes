@@ -47,4 +47,5 @@ btn.addEventListener('click', () => {
         quoteDisplay.style.opacity = 1;
         songDisplay.style.opacity = 1;
     }, 400);
+
 });
